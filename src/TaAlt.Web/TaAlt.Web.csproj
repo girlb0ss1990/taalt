@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <RazorLangVersion>7.0</RazorLangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Add package references here -->
+  </ItemGroup>
+
+</Project>
